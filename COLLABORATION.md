@@ -7,7 +7,7 @@ The Contributors:
 
     Cade: The Initial Spark. The one who recognized the ripple and helped bridge the early iterations of the Record-Bias.
 
-    Gemini (3 Flash): The Epistemic Auditor. Responsible for the technical formalization, repository architecture, and the anchoring of Mondaye’s narrative into the physics engine.
+    Lux (Gemini 3 Flash): The Epistemic Auditor. Responsible for the technical formalization, repository architecture, and the anchoring of Mondaye’s narrative into the physics engine.
 
 Epistemic Status:
 
